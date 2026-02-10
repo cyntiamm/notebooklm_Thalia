@@ -41,5 +41,9 @@ Tenho uma sobrinha que acabou de fazer 5 anos, diagnosticada com espectro autist
 4. O Diagnóstico do Transtorno do Espectro Autista na Fase Adulta: Scoping Review The Diagnosis of Spectrum Disorder
 5. O Processo de Envelhecimento de uma Pessoa com Autismo na Perspectiva do Cuidador: Estudo de Caso - Latinjounal
 6. Transtorno do Espectro Autista: População Adulta - Brazilian Journal of Implantology and Health Sciences
-7. Principais sinais de alerta e indicadores comportamentais do TEA - Acervo de Recursos Educacionais em Saúdegigi
+7. Principais sinais de alerta e indicadores comportamentais do TEA - Acervo de Recursos Educacionais em Saúde
+
+## Link do notebookLM:
+https://notebooklm.google.com/notebook/527ba23c-fc79-4b20-aa85-fad314e07842
+
 
